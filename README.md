@@ -34,7 +34,8 @@
 ![Alt text](./assets/images/Horiseon%20Screenshot.png)
 
 
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
+# Links
+
+https://louisjsummers.github.io/week-1-code-refactor-challenge/Links to an external site.
+
+git@github.com:LouisJsummers/week-1-code-refactor-challenge.git
