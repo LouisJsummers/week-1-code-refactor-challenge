@@ -33,9 +33,9 @@
 
 ![Alt text](./assets/images/Horiseon%20Screenshot.png)
 
-LINKS
+## LINKS
 
 https://louisjsummers.github.io/week-1-code-refactor-challenge/
 
 
-git@github.com:LouisJsummers/week-1-code-refactor-challenge.git
+https://github.com/LouisJsummers/week-1-code-refactor-challenge
